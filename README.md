@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Hi, I'm Ho Nguyen Xuan Tay,  from to Viet Nam
+  Hi, I'm Ho Nguyen Xuan Tay, come from Viet Nam
   <br>
   <br>
   🔬 I'm currently studying in VietNam - Korean of ICT
