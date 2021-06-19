@@ -10,13 +10,11 @@
   Hi, I'm Ho Nguyen Xuan Tay,  from Viet Nam
   <br>
   <br>
-  🔬 I'm currently studying in VietNam - Korean of ICT 
-<!--   <br> -->
-<!--   🎓 I graduated from -->
+  🔬 I'm currently studying in VietNam - Korean of ICT
 <!--   <br>
   🎓 I graduated from Ly Tu Trong High School -->
-<!--   <br>
-  💻 I love writing code and learn anythings about it -->
+  <br>
+  💻 I love playing videogame so i become to the programmer to learn anythings about it
   <br>
   📫 How to reach me: <a href="mailto: hnxtay.dev@gmail.com">hnxtay.dev@gmail.com</a>
 </p>
