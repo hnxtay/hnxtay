@@ -10,7 +10,7 @@
   Hi, I'm Ho Nguyen Xuan Tay, come from Viet Nam
   <br>
   <br>
-  🔬 I'm currently studying in <a href="vku.udn.vn">VietNam - Korean of ICT</a>
+  🔬 I'm currently studying in <a href="https://vku.udn.vn">VietNam - Korean of ICT</a>
 <!--   <br>
   🎓 I graduated from Ly Tu Trong High School -->
   <br>
