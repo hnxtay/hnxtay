@@ -18,7 +18,6 @@
   <br>
   📫 How to reach me: <a href="mailto: hnxtay.dev@gmail.com">hnxtay.dev@gmail.com</a>
 </p>
-## 📊 Stat
 <div align="center" >
   
 <a  href="https://github.com/hnxtay"> 
