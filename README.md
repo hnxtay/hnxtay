@@ -30,7 +30,7 @@
         </td>
         <td style="border: none;">
             <a href="https://github.com/hnxtay">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnxtay&layout=compact&theme=radical&custom_title=Top Languages" width="100%" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnxtay&layout=compact&theme=radical&custom_title=Top%20Languages" width="100%" />
             </a>
         </td>
     </tr>
