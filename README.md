@@ -7,14 +7,14 @@
 </h1>
 
 <p align="center">
-  Hi, I'm Ho Nguyen Xuan Tay, come from Viet Nam
+  Hi, I'm Ho Nguyen Xuan Tay, and I come from Viet Nam
   <br>
   <br>
-  🔬 I'm currently studying in <a href="https://vku.udn.vn">VietNam - Korean of ICT</a>
+  🔬 I studied at <a href="https://vku.udn.vn">VietNam - Korean of ICT</a>
 <!--   <br>
   🎓 I graduated from Ly Tu Trong High School -->
   <br>
-  💻 I love playing videogame so i become to the programmer to learn anythings about it
+  💻 I enjoy playing video games, so I became a programmer to learn more about them.
   <br>
   📫 How to reach me: <a href="mailto: hnxtay.dev@gmail.com">hnxtay.dev@gmail.com</a>
 </p>
@@ -37,12 +37,3 @@
 </a>
 
 </div>
-<!-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
